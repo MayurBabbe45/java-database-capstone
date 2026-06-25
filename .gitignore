@@ -65,3 +65,4 @@ Thumbs.db
 # Secrets & local env overrides
 .env
 .env.local
+
